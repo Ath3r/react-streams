@@ -3,10 +3,12 @@
 # dependencies
 client/node_modules/
 server/node_modules/
+rtmpserver/node_modules/
 /.pnp
 .pnp.js
 client/.DS_Store
 server/.DS_Store
+rtmpserver/.DS_Store
 
 # testing
 /coverage
