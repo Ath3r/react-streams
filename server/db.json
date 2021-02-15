@@ -1,16 +1,3 @@
 {
-  "streams": [
-    {
-      "title": "My first stream",
-      "description": "Streaming",
-      "userId": "118274223816381593366",
-      "id": 1
-    },
-    {
-      "title": "user",
-      "description": "working bruh",
-      "userId": "118274223816381593366",
-      "id": 2
-    }
-  ]
+	"streams": []
 }
