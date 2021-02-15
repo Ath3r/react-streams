@@ -19,6 +19,18 @@ cd client
 npm start
 ```
 
+For Google Auth
+Get your Client Id and paste on the file /client/src/components/GoogleAuth.js
+
+```
+window.gapi.client
+			.init({
+				clientId:
+					'Your Client ID',
+				scope: 'email',
+			})
+```
+
 The application will start on [localhost:3000](http://localhost:3000).
 
 ### JSON Server Back End
