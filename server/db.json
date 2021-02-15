@@ -1,33 +1,9 @@
 {
   "streams": [
     {
-      "title": "making",
-      "description": "me",
-      "userId": "118274223816381593366",
-      "id": 1
-    },
-    {
-      "title": "test",
-      "description": "working on this",
-      "userId": "118274223816381593366",
-      "id": 2
-    },
-    {
-      "title": "something is here",
-      "description": "my stream",
-      "userId": "118274223816381593366",
-      "id": 3
-    },
-    {
       "title": "trying out ",
       "description": "I edited this ",
       "id": 4
-    },
-    {
-      "title": "after refactor",
-      "description": "after refactor i edited",
-      "userId": "118274223816381593366",
-      "id": 5
     }
   ]
 }
